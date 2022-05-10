@@ -18,8 +18,8 @@
 </template>
 
 <script>
-import AtomTitle from '@/components/AtomTitle';
-import AtomText from '@/components/AtomText';
+import AtomTitle from './AtomTitle.vue';
+import AtomText from './AtomText.vue';
 
 export default {
   name: 'MoleculeCard',

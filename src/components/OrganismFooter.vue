@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import MoleculeLinks from '@/components/MoleculeLinks';
+import MoleculeLinks from './MoleculeLinks.vue';
 
 export default {
   name: 'OrganismFooter',

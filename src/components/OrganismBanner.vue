@@ -11,9 +11,9 @@
 </template>
 
 <script>
-import AtomTitle from '@/components/AtomTitle';
-import AtomText from '@/components/AtomText';
-import AtomButton from '@/components/AtomButton';
+import AtomTitle from './AtomTitle.vue';
+import AtomText from './AtomText.vue';
+import AtomButton from './AtomButton.vue';
 
 export default {
   name: 'OrganismBanner',

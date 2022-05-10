@@ -24,9 +24,9 @@
 </template>
 
 <script>
-import AtomLogo from '@/components/AtomLogo';
-import AtomButton from '@/components/AtomButton';
-import MoleculeLinks from '@/components/MoleculeLinks';
+import AtomLogo from './AtomLogo.vue';
+import AtomButton from './AtomButton.vue';
+import MoleculeLinks from './MoleculeLinks.vue';
 
 export default {
   name: 'OrganismHeader',
